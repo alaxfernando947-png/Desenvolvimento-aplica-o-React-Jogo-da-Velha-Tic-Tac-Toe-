@@ -46,7 +46,7 @@ tic-tac-toe/
 
 1. Clone o repositório (ou baixe e extraia os arquivos):
 ```bash
-git clone https://github.com/SEU-USERNAME/SEU-REPO.git
+git clone [https://github.com/SEU-USERNAME/SEU-REPO.git](https://github.com/alaxfernando947-png/Desenvolvimento-aplica-o-React-Jogo-da-Velha-Tic-Tac-Toe-)
 cd SEU-REPO
 ```
 
@@ -99,11 +99,12 @@ Se quiser, eu te passo o passo a passo para publicar em Vercel ou GitHub Pages.
 ---
 
 ## ✍️ Créditos
-Desenvolvido por: **Seu Nome**  
+Desenvolvido por: **ÁLAX FERNANDO DE FREITAS NUNES**  
 Projeto feito como prática de React + Vite.
 
 ---
 
 ## 📄 Licença
 Este projeto está livre para uso educacional. Coloque aqui a licença desejada (ex.: MIT) se quiser tornar explícito.
+
 
