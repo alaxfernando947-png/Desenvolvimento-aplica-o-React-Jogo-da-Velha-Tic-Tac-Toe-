@@ -105,6 +105,6 @@ Projeto feito como prática de React + Vite.
 ---
 
 ## 📄 Licença
-Este projeto está livre para uso educacional. Coloque aqui a licença desejada (ex.: MIT) se quiser tornar explícito.
+Este projeto está livre para uso educacional.
 
 
